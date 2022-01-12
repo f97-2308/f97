@@ -32,7 +32,7 @@ Projects have joined or built:
 
 
 ### **[Socicalum](#)**
-- _A project that supports see alalytics at views, likes, and follows of youtube urls, facebook status... and you are not the owner of the article. _
+- _A project that supports see alalytics at views, likes, and follows of youtube urls, facebook status... and you are not the owner of the article._
 - Team size: 1
 - Language: React.js, Node.js
 - Experience: 

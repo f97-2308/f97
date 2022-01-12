@@ -1,16 +1,3 @@
-<!-- ---
-title: "HUYNH DUC KHOAN's CV"
-date: 2021-09-24 11:46:37
---- -->
-<style>
-  .main .post-content ul {
-    padding-left: 2em;
-  }
-  .main .post-content ul li {
-    list-style-type: disc;
-  }
-</style>
-
 Huỳnh Đức Khoản | HUYNH DUC KHOAN
 ============
 |---|---|

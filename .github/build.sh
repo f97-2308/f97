@@ -15,6 +15,7 @@ cd gh-pages
 # HTML
 npx github-readme-to-html
 mv dist/index.html .
+sed -i 's/Read Me/HUYNH DUC KHOAN cv/' index.html
 rm -rf dist/
 # HTML
 

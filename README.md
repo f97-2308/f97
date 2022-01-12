@@ -6,7 +6,7 @@ Huỳnh Đức Khoản | HUYNH DUC KHOAN
 |skype|[live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)|
 |linkedin|[in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)|
 |blogs|[f97.xyz](https://f97.xyz/archives)|
-|PDF|[HUYNHDUCKHOAN_CV](/HUYNHDUCKHOAN_CV.pdf)|
+|pdf|[HUYNHDUCKHOAN_CV](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|
 
 Technical Experience
 --------------------
@@ -32,7 +32,7 @@ Projects have joined or built:
 
 
 ### **[Socicalum](#)**
-- _A project that supports see alalytics at views, likes, and follows of youtube urls, facebook status... and you are not the owner of the article._
+- _A project that supports see alalytics at views, likes, and follows of youtube urls, facebook status... and you are not the owner of the article. _
 - Team size: 1
 - Language: React.js, Node.js
 - Experience: 

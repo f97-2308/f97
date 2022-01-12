@@ -22,7 +22,7 @@ rm -rf dist/
 npx md-to-pdf README.md
 mv README.pdf HUYNHDUCKHOAN_CV.pdf
 
-# # PDF
-# git add .
-# git commit -m ':zap: update new CV'
-# git push
+# GIT PUSH
+git add .
+git commit -m ':zap: update new CV'
+git push

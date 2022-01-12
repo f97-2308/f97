@@ -21,8 +21,9 @@ rm -rf dist/
 # PDF
 npx md-to-pdf README.md
 mv README.pdf HUYNHDUCKHOAN_CV.pdf
+echo 'cv.f97.xyz'> CNAME
 
 # GIT PUSH
 git add .
-git commit -m ':zap: update new CV'
-git push
+git commit -m ':zap: cv updated'
+git push -f

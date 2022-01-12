@@ -1,4 +1,4 @@
-Huỳnh Đức Khoản | HUYNH DUC KHOAN
+HUYNH DUC KHOAN
 ============
 |---|---|
 |---|---|

@@ -26,4 +26,4 @@ echo 'cv.f97.xyz'> CNAME
 # GIT PUSH
 git add .
 git commit -m ':zap: cv updated'
-git push -f
+git push -f origin gh-pages:gh-pages

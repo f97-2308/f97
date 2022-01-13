@@ -5,7 +5,6 @@ Huỳnh Đức Khoản | HUYNH DUC KHOAN
 |email|huynhduckhoan@gmail.com|
 |skype|[live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)|
 |linkedin|[in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)|
-|blogs|[f97.xyz](https://f97.xyz/archives)|
 |pdf|[HUYNHDUCKHOAN_CV](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|
 
 Technical Experience
@@ -22,7 +21,7 @@ Technical Experience
 Experience
 ----------
 
-_[6/2020 - 2/2022]_ - **Blue Otter Corporation**
+### _[6/2020 - 2/2022]_ - **Blue Otter Corporation**
 
 _This is a startup with less than 15 members when I joined._
 
@@ -31,7 +30,7 @@ In square brackets is the language I used when join project.
 Projects have joined or built: 
 
 
-### **[Socicalum](#)**
+#### **[Socicalum](#)**
 - _A project that supports see alalytics at views, likes, and follows of youtube urls, facebook status... and you are not the owner of the article. _
 - Team size: 1
 - Language: React.js, Node.js
@@ -39,14 +38,14 @@ Projects have joined or built:
   - How to get data without through API.
   - ...
 
-### **[Socicalum](#)**
+#### **[Socicalum](#)**
 - _Build some API to support project's maintainer like as: verify-sms, send-sms..._
 - Team size: 5
 - Language: Node.js
 - Experience: 
   - ...
 
-### **[Cloudcath](https://www.cloudcath.com/)**
+#### **[Cloudcath](https://www.cloudcath.com/)**
   - _The CloudCath Device and Patient Management System software tool enables dialysis providers to monitor their patients' state and progression in real-time._
   - Team size: N/a
   - Language: React.js
@@ -56,7 +55,7 @@ Projects have joined or built:
     - Working with a startup product whose day job is change spec .
     - ...
 
-### **[Feastin](https://feastin.com/)**
+#### **[Feastin](https://feastin.com/)**
 
 - _A product connecting restaurants._
 - Team size: N/a
@@ -65,7 +64,7 @@ Projects have joined or built:
   - Meetin with American customers and make them happy
   - ...
 
-### **[Operativeunderground](https://www.operativeunderground.com/)**
+#### **[Operativeunderground](https://www.operativeunderground.com/)**
 
 - _A product to promote, sell offline classes via paypal._
 - Team size: 1
@@ -76,11 +75,11 @@ Projects have joined or built:
   - How to work alone in a small startup.
   - ...
 
-_[1/2019 - 6/2020]_ - **Co-WELL**
+### _[1/2019 - 6/2020]_ - **Co-WELL**
 
 _This is a company with 500 members._
 
-### **[Kakei+](https://kakei.fujinnotomo.co.jp/)**
+#### **[Kakei+](https://kakei.fujinnotomo.co.jp/)**
 
 - _A project money management with kakeibo._
 - Team size: 25-30
@@ -91,7 +90,7 @@ _This is a company with 500 members._
   - Use react to import and export data.
   - ...
 
-### **Application for buying and selling building materials**
+#### **Application for buying and selling building materials**
 
 - _client's internal application._
 - Team size: 6

@@ -6,6 +6,7 @@ Huỳnh Đức Khoản | HUYNH DUC KHOAN
 |skype|[live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)|
 |linkedin|[in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)|
 |pdf|[HUYNHDUCKHOAN_CV](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|
+|blog|https://f97.xyz|
 
 Technical Experience
 --------------------
@@ -29,6 +30,12 @@ In square brackets is the language I used when join project.
 
 Projects have joined or built: 
 
+#### **[Frac.to](#)**
+- _Increase revenue with more payment options. _
+- Team size: N/a
+- Language: React.js, Node.js
+- Experience: 
+  - ...
 
 #### **[Socicalum](#)**
 - _A project that supports see alalytics at views, likes, and follows of youtube urls, facebook status... and you are not the owner of the article. _
@@ -38,9 +45,9 @@ Projects have joined or built:
   - How to get data without through API.
   - ...
 
-#### **[Socicalum](#)**
-- _Build some API to support project's maintainer like as: verify-sms, send-sms..._
-- Team size: 5
+#### **[Vintag](#)**
+- _A commercial construction site tool asset manager primarily focused on checking in and out tools through NFC_
+- Team size: 8
 - Language: Node.js
 - Experience: 
   - ...

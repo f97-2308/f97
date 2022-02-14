@@ -22,7 +22,7 @@ Technical Experience
 Experience
 ----------
 
-### _[6/2020 - 2/2023]_ - **Blue Otter Corporation**
+### _[6/2020 - 2/2022]_ - **Blue Otter Corporation**
 
 _This is a startup with less than 15 members when I joined._
 

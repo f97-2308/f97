@@ -15,7 +15,7 @@ cd gh-pages
 # HTML
 npx github-readme-to-html
 mv dist/index.html .
-npx replace-in-files-cli --string='Read Me' --replacement="HUYNH DUC KHOAN's cv" HUYNHDUCKHOAN_CV.md
+npx replace-in-files-cli --string='Read Me' --replacement="HUYNH DUC KHOAN's cv" index.html
 rm -rf dist/
 # HTML
 

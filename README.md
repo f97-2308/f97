@@ -5,8 +5,8 @@ Huỳnh Đức Khoản | HUYNH DUC KHOAN
 |---|---|---|---|
 |Email|huynhduckhoan@gmail.com|Blog|[https://f97.xyz](https://f97.xyz)|
 |Skype|[live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)|Linkedin|[in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)|
+|PDF|[HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|||
 
-Download this page with pdf: [HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)
 
 Technical Experience
 --------------------

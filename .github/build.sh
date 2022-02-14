@@ -21,9 +21,9 @@ rm -rf dist/
 
 # PDF
 cp README.md HUYNHDUCKHOAN_CV.md
+sed -i 's/|PDF|[HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|||//' HUYNHDUCKHOAN_CV.md
 npx md-to-pdf HUYNHDUCKHOAN_CV.md
 echo 'cv.f97.xyz'> CNAME
-sed -i 's/|PDF|[HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|||//' index.html
 rm HUYNHDUCKHOAN_CV.md
 
 # GIT PUSH

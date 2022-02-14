@@ -7,7 +7,6 @@ Huỳnh Đức Khoản | HUYNH DUC KHOAN
 |Skype|[live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)|Linkedin|[in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)|
 |PDF|[HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|||
 
-
 Technical Experience
 --------------------
 

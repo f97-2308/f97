@@ -1,13 +1,12 @@
 Huỳnh Đức Khoản | HUYNH DUC KHOAN
 =====================
 
-|KEY|VALUE|
-|---|---|
-|Email|huynhduckhoan@gmail.com|
-|Skype|[live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)|
-|Linkedin|[in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)|
-|Blog|[https://f97.xyz](https://f97.xyz)|
-|PDF|[HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|
+|||||
+|---|---|---|---|
+|Email|huynhduckhoan@gmail.com|Blog|[https://f97.xyz](https://f97.xyz)|
+|Skype|[live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)|Linkedin|[in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)|
+
+Download this page with pdf: [HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)
 
 Technical Experience
 --------------------

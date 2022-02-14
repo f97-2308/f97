@@ -1,12 +1,12 @@
 Huỳnh Đức Khoản | HUYNH DUC KHOAN
 ============
+|KEY|VALUE|
 |---|---|
-|---|---|
-|email|huynhduckhoan@gmail.com|
-|skype|[live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)|
-|linkedin|[in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)|
-|pdf|[HUYNHDUCKHOAN_CV](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|
-|blog|https://f97.xyz|
+|Email|huynhduckhoan@gmail.com|
+|Skype|[live:huynhduckhoan](https://join.skype.com/invite/niUom6aZDDwa)|
+|Linkedin|[in/huynhduckhoan](https://www.linkedin.com/in/huynhduckhoan)|
+|Blog|[https://f97.xyz](https://f97.xyz)|
+|PDF|[HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|
 
 Technical Experience
 --------------------
@@ -16,8 +16,9 @@ Technical Experience
 - **Good** programming language: **Javascript family** _(typescript, node.js, react.js, react native...)_, **Bash**.
 - I **can also use** some other languages at basic level: **PHP**, **C**, **Java**.
 - I am **good** at **MongoDB** and I just use MySQL at basic level.
+- **Pretty good** with **Node.js Unit Test**.
 - **Pretty good** use of **Docker**.
-- **Pretty good** use of **CI** and **Unit test** with javascript.
+- **Pretty good** use of **CI/CD**(Github Action, Gitlab CI, Drone.IO...).
 
 Experience
 ----------
@@ -26,9 +27,7 @@ Experience
 
 _This is a startup with less than 15 members when I joined._
 
-In square brackets is the language I used when join project.
-
-Projects have joined or built: 
+Projects have joined or built alone: 
 
 #### **[Frac.to](https://frac.to)**
 - _Increase revenue with more payment options. _
@@ -125,28 +124,27 @@ _[2015 - 2019]_:   **Bachelor of IT at Danang University of Education**
 
 <!-- yeb, I commented all, so please see at [https://f97.xyz/projects/](https://f97.xyz/projects/) I will update in future. -->
 
-
 **Node.js**
    * Bot for [https://lnvs.net](https://lnvs.net) [live] _(bot support for scrape data from some light novel site and add for website)_
    * Api get link for [https://linkxin.net](https://linkxin.net) [stopped]  _(The API takes fshare, 4share, google drive, mediafire, meg0a... links and returns high-speed links with shortened links)_
 
-<!-- **PHP/WORDPRESS** -->
-   <!-- * [https://lnvs.net](https://lnvs.net) -->
-<!--    * [https://taimoi.com](https://taimoi.com) -->
+**PHP/WORDPRESS**
+   * [https://lnvs.net](https://lnvs.net)
+   * [https://taimoi.com](https://taimoi.com)
 
 ### Open Source
 
 **Node.js**
-   * Chevereto for node.js: https://github.com/chevereto
-   * Fsharedk for node.js: https://github.com/fsharedk
-   * And more: https://github.com/f97
+   * Chevereto for js: https://git.f97.xyz/chevereto
+   * Pictshare for js: https://git.f97.xyz/pictshare
+   * Fshare SDK for node.js: https://git.f97.xyz/fshare or https://www.npmjs.com/package/@f97/fshare 
+   * And more: https://git.f97.xyz 
 
 **React Native**
    * RNTemplate: https://github.com/f97/RNTemplate.git
 
 **Bash**
-   * SurVPS: https://github.com/f97/survps.git
-   * Some script on https://gist.github.com/f97
+   * SurVPS: https://github.com/f97/survps.git or https://git.f97.xyz/f97/survps.git
    
 _Basic knowledge of **C**, **Java** and more... :)))_
 
@@ -160,10 +158,10 @@ Extra Section
    * Vietnamese _(native speaker)_
    * English _(not so good)_
 
-<!-- * Fact
+* Fact
    * I can support but don't want to support IT free.
    * There are many hobbies (table tennis, taking pictures, image ditor, read manga, read light novel, writing poems, writing stories ...).
    * In free time, I often watch create some project for ...
-   * I have many diaries, one of which belongs to my ex.
-   * I have a smart watch collection. -->
+   * I have a smart watch collection.
+   * I have used almost all linux distros on distrowatch with 4 years of experience in using linux. (Now, I'm using MacOS on Macbook and Ubuntu server with XFCE desktop environments on Raspberry Pi 4 and Hackintosh on ITX PC)
 <!--    * <s>I am alone =)))<s> -->

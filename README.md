@@ -29,14 +29,14 @@ _This is a startup with less than 15 members when I joined._
 Projects have joined or built alone: 
 
 #### **[Frac.to](https://frac.to)**
-- _Increase revenue with more payment options. _
+- _Increase revenue with more payment options._
 - Team size: N/a
 - Language: React.js, Node.js
 - Experience: 
   - ...
 
 #### **[Socicalum](#)**
-- _A project that supports see alalytics at views, likes, and follows of youtube urls, facebook status... and you are not the owner of the article. _
+- _A project that supports see alalytics at views, likes, and follows of youtube urls, facebook status... and you are not the owner of the article._
 - Team size: 1
 - Language: React.js, Node.js
 - Experience: 

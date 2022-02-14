@@ -20,12 +20,11 @@ rm -rf dist/
 # HTML
 
 # PDF
-cp README.md CV.md
-npx md-to-pdf README.md
-mv README.pdf HUYNHDUCKHOAN_CV.pdf
+cp README.md HUYNHDUCKHOAN_CV.md
+npx md-to-pdf HUYNHDUCKHOAN_CV.md
 echo 'cv.f97.xyz'> CNAME
 sed -i 's/|PDF|[HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|||//' index.html
-rm CV.md
+rm HUYNHDUCKHOAN_CV.md
 
 # GIT PUSH
 git add .

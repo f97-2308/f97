@@ -25,8 +25,10 @@ npx replace-in-files-cli --string='|PDF|[HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xy
 npx md-to-pdf HUYNHDUCKHOAN_CV.md
 echo 'cv.f97.xyz'> CNAME
 rm HUYNHDUCKHOAN_CV.md
+# PDF
 
 # GIT PUSH
 git add .
 git commit -m ':zap: cv updated'
 git push -f origin gh-pages:gh-pages
+# GIT PUSH

@@ -112,12 +112,13 @@ Education
 
 _[2015 - 20xx]_:   **Study, study more, study forever**
   * Completed some courses on udemy, github...
+  * Learn how to use productivity tools...
 
 _[2015 - 2019]_:   **Bachelor of IT at Danang University of Education**
 
    * Students, member, secretary the school's executive committee.
    * Learn the basics of algorithms, logic, office and more.
-   * Most of the soft skills I have
+   * Most of the soft skills I have.
 
 ### My cool side project: 
 
@@ -125,7 +126,7 @@ _[2015 - 2019]_:   **Bachelor of IT at Danang University of Education**
 
 **Node.js**
    * Bot for [https://lnvs.net](https://lnvs.net) [live] _(bot support for scrape data from some light novel site and add for website)_
-   * Api get link for [https://linkxin.net](https://linkxin.net) [stopped]  _(The API takes fshare, 4share, google drive, mediafire, meg0a... links and returns high-speed links with shortened links)_
+   * Api get link for [linkxin](#) [stopped]  _(The API takes fshare, 4share, google drive, mediafire, meg0a... links and returns high-speed links with shortened links)_
 
 **PHP/WORDPRESS**
    * [https://lnvs.net](https://lnvs.net)
@@ -155,12 +156,12 @@ Extra Section
 * Human Languages:
 
    * Vietnamese _(native speaker)_
-   * English _(not so good)_
+   * English
 
 * Fact
    * I can support but don't want to support IT free.
    * There are many hobbies (table tennis, taking pictures, image ditor, read manga, read light novel, writing poems, writing stories ...).
-   * In free time, I often watch create some project for ...
+   <!-- * In free time, I often watch create some project for ... -->
    * I have a smart watch collection.
    * I have used almost all linux distros on distrowatch with 4 years of experience in using linux. (Now, I'm using MacOS on Macbook and Ubuntu server with XFCE desktop environments on Raspberry Pi 4 and Hackintosh on ITX PC)
 <!--    * <s>I am alone =)))<s> -->

@@ -21,7 +21,7 @@ rm -rf dist/
 
 # PDF
 cp README.md HUYNHDUCKHOAN_CV.md
-npx replace-in-files-cli --string='|PDF|[HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|Location|Da Nang City|' --replacement='|Location|Da Nang City|||' HUYNHDUCKHOAN_CV.md
+# npx replace-in-files-cli --string='|PDF|[HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|Location|Da Nang City|' --replacement='|Location|Da Nang City|||' HUYNHDUCKHOAN_CV.md
 npx md-to-pdf HUYNHDUCKHOAN_CV.md
 echo 'cv.f97.xyz'> CNAME
 rm HUYNHDUCKHOAN_CV.md

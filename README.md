@@ -112,12 +112,13 @@ Education
 
 _[2015 - 20xx]_:   **Study, study more, study forever**
   * Completed some courses on udemy, github...
+  * Learn how to use productivity tools...
 
 _[2015 - 2019]_:   **Bachelor of IT at Danang University of Education**
 
    * Students, member, secretary the school's executive committee.
    * Learn the basics of algorithms, logic, office and more.
-   * Most of the soft skills I have
+   * Most of the soft skills I have.
 
 ### My cool side project: 
 
@@ -155,11 +156,11 @@ Extra Section
 * Human Languages:
 
    * Vietnamese _(native speaker)_
-   * English _(not so good)_
+   * English
 
 * Fact
    * There are many hobbies (table tennis, taking pictures, image ditor, read manga, read light novel, writing poems, writing stories ...).
-   * In free time, I often watch create some project for ...
+   <!-- * In free time, I often watch create some project for ... -->
    * I have a smart watch collection.
    * I have used almost all linux distros on distrowatch with 4 years of experience in using linux. (Now, I'm using MacOS on Macbook and Ubuntu server with XFCE desktop environments on Raspberry Pi 4 and Hackintosh on ITX PC)
    * I used to be the secretary of the faculty, the president of the club when I was a student at the university.

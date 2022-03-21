@@ -13,7 +13,7 @@ cp ./f97/CV.md ./gh-pages/CV.md
 cd gh-pages
 
 # HTML
-npx github-CV-to-html
+npx github-readme-to-html --input CV.md
 mv dist/index.html .
 npx replace-in-files-cli --string='Read Me' --replacement="HUYNH DUC KHOAN's cv" index.html
 rm -rf dist/

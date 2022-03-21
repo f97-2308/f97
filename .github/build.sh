@@ -9,18 +9,18 @@ git clone https://f97:$1@github.com/f97/f97.git
 git clone -b gh-pages  https://f97:$1@github.com/f97/f97.git gh-pages
 rm -rf ./gh-pages/*
 
-cp ./f97/README.md ./gh-pages/README.md 
+cp ./f97/CV.md ./gh-pages/CV.md 
 cd gh-pages
 
 # HTML
-npx github-readme-to-html
+npx github-CV-to-html
 mv dist/index.html .
 npx replace-in-files-cli --string='Read Me' --replacement="HUYNH DUC KHOAN's cv" index.html
 rm -rf dist/
 # HTML
 
 # PDF
-cp README.md HUYNHDUCKHOAN_CV.md
+cp CV.md HUYNHDUCKHOAN_CV.md
 # npx replace-in-files-cli --string='|PDF|[HUYNHDUCKHOAN_CV.pdf](https://cv.f97.xyz/HUYNHDUCKHOAN_CV.pdf)|Location|Da Nang City|' --replacement='|Location|Da Nang City|||' HUYNHDUCKHOAN_CV.md
 npx md-to-pdf HUYNHDUCKHOAN_CV.md
 echo 'cv.f97.xyz'> CNAME

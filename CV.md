@@ -15,9 +15,9 @@ Technical Experience
 - **Good** programming language: **Javascript family** _(typescript, node.js, react.js, react native...)_, **Bash**.
 - I **can also use** some other languages at basic level: **PHP**, **C**, **Java**.
 - I am **good** at **MongoDB** and I just use MySQL at basic level.
-- **Pretty good** with **Node.js Unit Test**.
-- **Pretty good** use of **Docker**.
-- **Pretty good** use of **CI/CD**(Github Action, Gitlab CI, Drone.IO...).
+- **Basic** with **Node.js Unit Test**.
+- **Basic** use of **Docker**.
+- **Basic** use of **CI/CD**(Github Action, Gitlab CI, Drone.IO...).
 
 Experience
 ----------
@@ -32,53 +32,17 @@ Projects have joined or built alone:
 - _Increase revenue with more payment options._
 - Team size: N/a
 - Technology: React.js, Node.js
-- Experience: 
-  - ...
-
-#### **[Socicalum](#)**
-- _A project that supports see alalytics at views, likes, and follows of youtube urls, facebook status... and you are not the owner of the article._
-- Team size: 1
-- Technology: React.js, Node.js
-- Experience: 
-  - How to get data without through API.
-  - ...
-
-#### **[Vintag](#)**
-- _A commercial construction site tool asset manager primarily focused on checking in and out tools through NFC_
-- Team size: 8
-- Technology: Node.js
-- Experience: 
-  - ...
 
 #### **[Cloudcath](https://www.cloudcath.com)**
   - _The CloudCath Device and Patient Management System software tool enables dialysis providers to monitor their patients' state and progression in real-time._
   - Team size: N/a
   - Technology: React.js
-  - Experience: 
-    - Working with an oddly built Reactjs by Backend Developer.
-    - How to maintain a project that I develop from others but without affecting their flow.
-    - Working with a startup product whose day job is change spec .
-    - ...
-
-#### **[Feastin](https://feastin.com)**
-
-- _A product connecting restaurants._
-- Team size: N/a
-- Technology: React.js
-- Experience: 
-  - Meetin with American customers and make them happy
-  - ...
 
 #### **[Operativeunderground](https://www.operativeunderground.com)**
 
 - _A product to promote, sell offline classes via paypal._
 - Team size: 1
 - Technology: React.js, Node.js, Firebase
-- Experience: 
-  - Build a project with firebase, redux and redux manage with firebase.
-  - Pay by PayPal.
-  - How to work alone in a small startup.
-  - ...
 
 ### _[1/2019 - 6/2020]_ - **Co-WELL**
 
@@ -87,25 +51,15 @@ _This is a company with 500 members._
 #### **[Kakei+](https://kakei.fujinnotomo.co.jp)**
 
 - _A project money management with kakeibo._
-- Team size: 25-30
+- Team size: 20-30
 - Language: React.js
-- Experience: 
-  - Asynchronous handling to optimize server performance.
-  - Calculating on the client some big problems like budget statistics without calling up the server.
-  - Use react to import and export data.
-  - ...
+
 
 #### **Application for buying and selling building materials**
 
 - _client's internal application._
 - Team size: 6
 - Language: React Native
-- Experience: 
-  - How to identify codes in messages without user input.
-  - Use native base to code UI for both ios and android.
-  - ...
-
-<!-- * I have a few other React Native projects from time to time but not worth mentioning.  -->
 
 Education
 ---------
@@ -120,35 +74,16 @@ _[2015 - 2019]_:   **Bachelor of IT at Danang University of Education**
    * Learn the basics of algorithms, logic, office and more.
    * Most of the soft skills I have.
 
-### My cool side project: 
-
-<!-- yeb, I commented all, so please see at [https://f97.xyz/projects/](https://f97.xyz/projects/) I will update in future. -->
-
-**Node.js**
-   * Bot for [https://lnvs.net](https://lnvs.net) [live] _(bot support for scrape data from some light novel site and add for website)_
-   * Api get link for [linkxin](#) [stopped]  _(The API takes fshare, 4share, google drive, mediafire, meg0a... links and returns high-speed links with shortened links)_
-
-**PHP/WORDPRESS**
-   * [https://lnvs.net](https://lnvs.net)
-   * [taimoi.com](#)
-
 ### Open Source
 
 **Node.js**
-   * Chevereto for js: https://www.npmjs.com/package/chevereto
    * Pictshare for js: https://www.npmjs.com/package/pictshare
-   * Fshare SDK for node.js: https://git.f97.xyz/fshare or https://www.npmjs.com/package/@f97/fshare 
    * And more: https://git.f97.xyz 
-
-**React Native**
-   * RNTemplate: https://github.com/f97/RNTemplate.git
 
 **Bash**
    * SurVPS: https://github.com/f97/survps.git or https://git.f97.xyz/f97/survps.git
 
 _Basic knowledge of **C**, **Java** and more... :)))_
-
-[ref]: https://github.com/githubuser/f97
 
 Extra Section
 ----------------------------------------
@@ -156,20 +91,20 @@ Extra Section
 * Human Languages:
 
    * Vietnamese _(native speaker)_
-   * English
+   * English _(Basic for listening and speaking but quite good for writing and reading)_ 
 
 * Fact
    * There are many hobbies (table tennis, taking pictures, image ditor, read manga, read light novel, writing poems, writing stories ...).
-   * I have a smart watch collection.
    * I have used almost all linux distros on distrowatch with 4 years of experience in using linux. (Now, I'm using MacOS on Macbook and Ubuntu server with XFCE desktop environments on Raspberry Pi 4 and Hackintosh on ITX PC)
    * I used to be the secretary of the faculty, the president of the club when I was a student at the university.
+<!--    * I have a smart watch collection. -->
 <!-- * I can support but don't want to support IT free. -->
 <!-- * In free time, I often watch create some project for ... -->
 
-Wakatime tracker
+<!-- Wakatime tracker
 ----------------------------------------
 
 <img width="500px" src="https://wakatime.com/share/@9280854c-bbbd-4fbb-aaee-ffd5208730f9/72912b3b-7b11-488b-a554-987e4f287546.png" />
-
+ -->
 ----------------------------------------
 _Note: This page is automatically generated by [CV.md](https://github.com/f97/f97/blob/master/CV.md) and **Github Action**, I hope it will not have bugs when run :)))_

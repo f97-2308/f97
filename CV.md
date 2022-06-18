@@ -61,12 +61,22 @@ _This is a company with 500 members._
 - Team size: 6
 - Language: React Native
 
+
+
+Awards
+---------
+
+- Fresher Developer MVP (Co-WELL YEP 2019)
+- Developer MVP (Blue Otter YEP 2020)
+- The Most Sharing Knowledge of The Year (Blue Otter YEP 2021)
+
+
 Education
 ---------
 
-_[2015 - 20xx]_:   **Study, study more, study forever**
+<!-- _[2015 - 20xx]_:   **Study, study more, study forever**
   * Completed some courses on udemy, github...
-  * Learn how to use productivity tools...
+  * Learn how to use productivity tools... -->
 
 _[2015 - 2019]_:   **Bachelor of IT at Danang University of Education**
 

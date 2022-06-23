@@ -15,7 +15,7 @@ Technical Experience
 - **Good** programming language: **Javascript family** _(typescript, node.js, react.js, react native...)_, **Bash**.
 - I **can also use** some other languages at basic level: **PHP**, **C**, **Java**.
 <!-- - I am **good** at **MongoDB** and I just use MySQL at basic level. -->
-- **Basic** with **Node.js Unit Test**.
+- **Basic** with **Unit Test**.
 - **Basic** use of **Docker**.
 - **Basic** use of **CI/CD**(Github Action, Gitlab CI, Drone.IO...).
 
@@ -41,7 +41,7 @@ Projects have joined or built alone:
 #### **[Operativeunderground](https://www.operativeunderground.com)**
 
 - _A product to promote, sell offline classes via paypal._
-- Team size: 1
+- Team size: 3
 - Technology: React.js, Node.js, Firebase
 
 ### _[1/2019 - 6/2020]_ - **Co-WELL**
@@ -51,7 +51,7 @@ _This is a company with 500 members._
 #### **[Kakei+](https://kakei.fujinnotomo.co.jp)**
 
 - _A project money management with kakeibo._
-- Team size: 20-30
+- Team size: 15-25
 - Language: React.js
 
 
@@ -61,15 +61,12 @@ _This is a company with 500 members._
 - Team size: 6
 - Language: React Native
 
-
-
 Awards
 ---------
 
 - Fresher Developer MVP (Co-WELL YEP 2019)
 - Developer MVP (Blue Otter YEP 2020)
 - The Most Sharing Knowledge of The Year (Blue Otter YEP 2021)
-
 
 Education
 ---------
@@ -107,7 +104,7 @@ Extra Section
    * There are many hobbies (table tennis, taking pictures, image ditor, read manga, read light novel, writing poems, writing stories ...).
    * I have used almost all linux distros on distrowatch with 4 years of experience in using linux. (Now, I'm using MacOS on Macbook and Ubuntu server with XFCE desktop environments on Raspberry Pi 4 and Hackintosh on ITX PC)
    * I used to be the secretary of the faculty, the president of the club when I was a student at the university.
-<!--    * I have a smart watch collection. -->
+<!-- * I have a smart watch collection. -->
 <!-- * I can support but don't want to support IT free. -->
 <!-- * In free time, I often watch create some project for ... -->
 

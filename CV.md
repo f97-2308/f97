@@ -14,7 +14,7 @@ Technical Experience
 - I can use **XD**, Photoshop, **Figma** but not very good.
 - **Good** programming language: **Javascript family** _(typescript, node.js, react.js, react native...)_, **Bash**.
 - I **can also use** some other languages at basic level: **PHP**, **C**, **Java**.
-- I am **good** at **MongoDB** and I just use MySQL at basic level.
+<!-- - I am **good** at **MongoDB** and I just use MySQL at basic level. -->
 - **Basic** with **Node.js Unit Test**.
 - **Basic** use of **Docker**.
 - **Basic** use of **CI/CD**(Github Action, Gitlab CI, Drone.IO...).
